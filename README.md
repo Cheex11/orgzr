@@ -1,5 +1,7 @@
 # README
 
+Working in RoR for the first time in 2 years.  Readme will come when I figure out what I'm doing again.  Leaving the template to fill out later.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
