@@ -9,7 +9,7 @@ var hi = new Vivus('Layer_1', {type: 'delayed', duration: 400, start: 'autostart
           }
     setTimeout(function(){
         $("#footer").typed({
-            strings: ["ORGZR is being built. Please check back in March."],
+            strings: ["ORGZR is being built. Check back in March."],
             typeSpeed: 20, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
